@@ -1,6 +1,3 @@
-//Rinat Sikunda, rinatsikunda, 312495369
-//Shahar Lerener, shaharlerner, 203057294
-
 /**
  *
  * WAVLTree
